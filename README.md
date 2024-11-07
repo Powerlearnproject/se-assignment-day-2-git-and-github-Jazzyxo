@@ -38,6 +38,7 @@ Version control helps maintain project integrity through:
 
 
 ## 4.  Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+
 Public Repository on GitHub
 •	Advantages:
 •	Open collaboration: Anyone can view, fork, and contribute to the code, making it suitable for open-source projects and community development.
@@ -48,6 +49,7 @@ Public Repository on GitHub
 •	Security concerns: The public nature may expose sensitive information or code to unauthorized individuals.
 •	Lack of control: Once the code is shared publicly, you lose control over who has access to it and how it is used.
 •	Potential for abuse or misuse: The code can be used by malicious actors without your consent or knowledge.
+
 Private Repository on GitHub
 •	Advantages:
 •	Control and privacy: Only authorized users have access to the code, ensuring confidentiality and preventing unauthorized modifications.
